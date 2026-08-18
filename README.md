@@ -2,8 +2,8 @@
 <h3 align="center">Computer Engineering Student · Software & Data Engineering</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshdeep-singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hsingh11_be24@thapar.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshdeep-singh-a495a4323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:harshdeep080808@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/CGPA-9.21%2F10-brightgreen" />
   <img src="https://img.shields.io/badge/Location-Patiala%2C%20Punjab-lightgrey" />
 </p>
